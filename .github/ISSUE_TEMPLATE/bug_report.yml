@@ -1,0 +1,34 @@
+name: Bug report
+description: Report a Facet bug or compatibility issue
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+      description: Describe the bug and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Open Facet...\n2. Press...\n3. See..."
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Facet version
+      placeholder: "1.0"
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "macOS 14.0 / 15.x / 26.x"
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      description: Screenshots, recordings, or logs if helpful.
