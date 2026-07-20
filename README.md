@@ -1,6 +1,6 @@
 # Facet — A classic Launchpad replacement for macOS
 
-[![Download Facet](https://img.shields.io/badge/Download-DMG-blue?style=for-the-badge&logo=apple)](https://facet.quartz.ink/releases/Facet-1.0.13.dmg?download=1)
+[![Download Facet](https://img.shields.io/badge/Download-DMG-blue?style=for-the-badge&logo=apple)](https://facet.quartz.ink/releases/Facet-1.0.14.dmg?download=1)
 [![Website](https://img.shields.io/badge/Website-quartz.ink-black?style=for-the-badge)](https://facet.quartz.ink/)
 
 ```bash
@@ -26,11 +26,11 @@ Apple removed Launchpad in macOS Tahoe, replacing it with a search-centric view.
 
 ## Quick Links
 
-[Download Latest (1.0.13)](https://facet.quartz.ink/releases/Facet-1.0.13.dmg?download=1) · [Homebrew Tap](https://github.com/QuartzInkStudio/homebrew-tap) · [Compare Alternatives](https://facet.quartz.ink/compare) · [Release Notes](https://facet.quartz.ink/releases) · [Report an Issue](https://github.com/QuartzInkStudio/Facet/issues)
+[Download Latest (1.0.14)](https://facet.quartz.ink/releases/Facet-1.0.14.dmg?download=1) · [Homebrew Tap](https://github.com/QuartzInkStudio/homebrew-tap) · [Compare Alternatives](https://facet.quartz.ink/compare) · [Release Notes](https://facet.quartz.ink/releases) · [Report an Issue](https://github.com/QuartzInkStudio/Facet/issues)
 
 ## Installation
 
-1. [Download the notarized DMG](https://facet.quartz.ink/releases/Facet-1.0.13.dmg?download=1), or run `brew install --cask QuartzInkStudio/tap/facet`.
+1. [Download the notarized DMG](https://facet.quartz.ink/releases/Facet-1.0.14.dmg?download=1), or run `brew install --cask QuartzInkStudio/tap/facet`.
 2. Drag Facet to your `/Applications` folder.
 3. Launch and set your preferred hotkey.
 
