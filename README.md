@@ -9,7 +9,7 @@ brew install --cask QuartzInkStudio/tap/facet
 
 Facet brings back the familiar app grid, quick keyboard search, and folder organization to modern macOS. Specifically designed for users who miss the classic Launchpad experience in macOS 14+ and especially **macOS 26 (Tahoe)**.
 
-![Facet Preview](https://facet.quartz.ink/facet/hero-screenshot.png)
+![Facet showing its real native app grid in a polished macOS desktop scene](marketing/facet-hero.png)
 
 ## Why Facet?
 
