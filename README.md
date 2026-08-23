@@ -17,8 +17,8 @@ Facet 1.0.17 requires an Apple silicon Mac running macOS 14.0 or later, includin
 
 | File | SHA-256 |
 | --- | --- |
-| `Facet-1.0.17.dmg` | `61e5f85bf9618095c987ac7dffaa0b1c1737beb7106cd14d74399e04f6690426` |
-| `Facet-1.0.17.zip` | `d1197907a75aef74054a92dd34ab8bbb4d8e76d60045b16dd27584f4c5045f04` |
+| `Facet-1.0.17.dmg` | `77a329d17e31746133404199c55eee8c363a26460a576e1aba8558754b9edb5f` |
+| `Facet-1.0.17.zip` | `fa489f684795d26b1507a85a71b7c68fa03989a824971fbd6c1e162a34dbaff9` |
 
 The ZIP archive attached to the GitHub release is the signed Sparkle update package. For a new installation, use the DMG.
 
