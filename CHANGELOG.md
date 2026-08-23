@@ -1,5 +1,18 @@
 # Changelog
 
+## Facet 1.0.17 - 2026-08-23
+
+### Added
+
+- A polished five-step onboarding flow for layout import, launch method, display mode, and Free or Pro access.
+- Complete onboarding localization in English, Simplified Chinese, Japanese, and Korean.
+- Real Free, 14-day Pro trial, purchase, and license activation actions in the final setup step.
+
+### Downloads
+
+- [Facet 1.0.17 DMG](https://facetlauncher.com/releases/Facet-1.0.17.dmg)
+- [Facet 1.0.17 Sparkle ZIP](https://facetlauncher.com/releases/Facet-1.0.17.zip)
+
 ## Facet 1.0.1 - 2026-05-21
 
 Bug fix release.
@@ -12,8 +25,8 @@ Bug fix release.
 
 ### Downloads
 
-- [Facet 1.0.1 DMG](https://facet.quartz.ink/releases/Facet-1.0.1.dmg)
-- [Facet 1.0.1 Sparkle ZIP](https://facet.quartz.ink/releases/Facet-1.0.1.zip)
+- [Facet 1.0.1 DMG](https://facetlauncher.com/releases/Facet-1.0.1.dmg)
+- [Facet 1.0.1 Sparkle ZIP](https://facetlauncher.com/releases/Facet-1.0.1.zip)
 
 ## Facet 1.0 - 2026-05-20
 
@@ -31,5 +44,5 @@ Initial public release.
 
 ### Downloads
 
-- [Facet 1.0 DMG](https://facet.quartz.ink/releases/Facet-1.0.dmg)
-- [Facet 1.0 Sparkle ZIP](https://facet.quartz.ink/releases/Facet-1.0.zip)
+- [Facet 1.0 DMG](https://facetlauncher.com/releases/Facet-1.0.dmg)
+- [Facet 1.0 Sparkle ZIP](https://facetlauncher.com/releases/Facet-1.0.zip)
