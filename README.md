@@ -1,6 +1,6 @@
 # Facet — a free classic Launchpad replacement for Mac
 
-[![Download Facet 1.0.17](https://img.shields.io/badge/Download_Facet_1.0.17-DMG-8B5CF6?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.17/Facet-1.0.17.dmg)
+[![Download Facet 1.0.18](https://img.shields.io/badge/Download_Facet_1.0.18-DMG-8B5CF6?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.18/Facet-1.0.18.dmg)
 [![Facet website](https://img.shields.io/badge/Website-facetlauncher.com-17131F?style=for-the-badge)](https://facetlauncher.com/)
 
 Facet restores the familiar fullscreen app grid, keyboard search, folders, manual ordering, and Launchpad layout import on modern macOS. The core launcher is **free forever**. Facet Pro is an optional one-time upgrade for compact mode and advanced customization.
@@ -9,16 +9,16 @@ Facet restores the familiar fullscreen app grid, keyboard search, folders, manua
 
 ## Download
 
-- [Download Facet 1.0.17 DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.17/Facet-1.0.17.dmg) — recommended for manual installation
+- [Download Facet 1.0.18 DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.18/Facet-1.0.18.dmg) — recommended for manual installation
 - [View release notes](https://facetlauncher.com/releases)
 - [Homebrew tap](https://github.com/QuartzInkStudio/homebrew-tap)
 
-Facet 1.0.17 requires an Apple silicon Mac running macOS 14.0 or later, including macOS 26 Tahoe. The app is Developer ID signed and Apple-notarized.
+Facet 1.0.18 requires an Apple silicon Mac running macOS 14.0 or later, including macOS 26 Tahoe. The app is Developer ID signed and Apple-notarized.
 
 | File | SHA-256 |
 | --- | --- |
-| `Facet-1.0.17.dmg` | `77a329d17e31746133404199c55eee8c363a26460a576e1aba8558754b9edb5f` |
-| `Facet-1.0.17.zip` | `fa489f684795d26b1507a85a71b7c68fa03989a824971fbd6c1e162a34dbaff9` |
+| `Facet-1.0.18.dmg` | `4547f304dd0957c77c467eae60fa7a878877eefb2cf0fdcdffa3769462c25cf2` |
+| `Facet-1.0.18.zip` | `7438c8937adcf72a6853f6c2aa7f308a951901cf799e7cd344fc93cba0e2fd7f` |
 
 The ZIP archive attached to the GitHub release is the signed Sparkle update package. For a new installation, use the DMG.
 
@@ -49,7 +49,7 @@ The optional **14-day Pro trial** requires no credit card and never creates an a
 
 ## Installation
 
-1. [Download the latest notarized DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.17/Facet-1.0.17.dmg), or run `brew install --cask QuartzInkStudio/tap/facet`.
+1. [Download the latest notarized DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.18/Facet-1.0.18.dmg), or run `brew install --cask QuartzInkStudio/tap/facet`.
 2. Open the DMG and drag Facet to the Applications folder.
 3. Launch Facet and choose a global keyboard shortcut.
 4. Continue with Facet Free, start the optional Pro trial, or activate a Facet Pro license.
@@ -80,6 +80,10 @@ Facet は Mac 向けのクラシックな Launchpad 代替アプリです。フ�
 ## 한국어
 
 Facet은 Mac용 클래식 Launchpad 대체 앱입니다. 전체 화면 앱 그리드, 검색, 폴더, 수동 정렬, Launchpad 레이아웃 가져오기 및 전역 단축키는 계속 무료로 사용할 수 있습니다. Facet Pro는 14.99달러 일회성 선택 업그레이드로 컴팩트 모드, 핫 코너 및 고급 사용자화를 제공합니다. 14일 Pro 체험에는 신용 카드나 자동 결제가 필요하지 않습니다.
+
+## Deutsch
+
+Facet ist ein klassischer Launchpad-Ersatz für den Mac. Das Vollbildraster, die Suche, Ordner, manuelle Sortierung, der Launchpad-Import und der globale Kurzbefehl bleiben dauerhaft kostenlos. Facet Pro ist ein optionaler Einmalkauf für 14,99 US-Dollar und ergänzt Kompaktmodus, aktive Ecke und erweiterte Anpassungen. Die 14-tägige Pro-Testphase benötigt keine Kreditkarte und verursacht keine automatische Zahlung.
 
 ---
 
