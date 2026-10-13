@@ -1,5 +1,29 @@
 # Changelog
 
+## Facet 1.0.29 - 2026-10-13
+
+### Added
+
+- Facet Pro resource collections for custom Modes, with up to 12 websites, files, or folders per Mode. Resources can be searched and opened one at a time.
+- Resource selection in Launch Sets, with apps listed first and resources after them. Existing Launch Sets and per-Mode Open Mode / Start Launch Set shortcuts remain Pro features.
+- An optional resource switch in compact mode for Modes with configured resources; the classic app view remains available.
+- Updated product summaries in English, Simplified Chinese, Japanese, Korean, German, French, and Spanish.
+
+### Downloads
+
+- [Facet 1.0.29 DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.29/Facet-1.0.29.dmg) — recommended for manual installation.
+- [Facet 1.0.29 Sparkle ZIP](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.29/Facet-1.0.29.zip) — signed update package.
+
+### Localized release notes
+
+- [English](https://facetlauncher.com/releases)
+- [简体中文](https://facetlauncher.com/zh/releases)
+- [日本語](https://facetlauncher.com/ja/releases)
+- [한국어](https://facetlauncher.com/ko/releases)
+- [Deutsch](https://facetlauncher.com/de/releases)
+- [Français](https://facetlauncher.com/fr/releases)
+- [Español](https://facetlauncher.com/es/releases)
+
 ## Facet 1.0.28 - 2026-10-13
 
 ### Added
