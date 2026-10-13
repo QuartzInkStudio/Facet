@@ -1,5 +1,33 @@
 # Changelog
 
+## Facet 1.0.28 - 2026-10-13
+
+### Added
+
+- Launch Sets for Facet Modes, with up to 12 selected apps per Mode. Apps open only when the Launch Set is explicitly started; switching Modes changes only the displayed app collection.
+- Separate per-Mode Open Mode and Start Launch Set shortcuts. Configuring or starting a Launch Set and using these shortcuts requires active Pro, including during the optional in-app trial.
+- Localized release notes in English, Simplified Chinese, Japanese, Korean, German, French, and Spanish.
+
+### Pro access and pricing
+
+- The optional 14-day trial starts inside Facet, requires no card, creates no automatic charge, and is not a subscription.
+- Facet Pro has a regular base price of $14.99 USD, paid once for up to 3 Macs.
+
+### Downloads
+
+- [Facet 1.0.28 DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.28/Facet-1.0.28.dmg) — recommended for manual installation.
+- [Facet 1.0.28 Sparkle ZIP](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.28/Facet-1.0.28.zip) — signed update package.
+
+### Localized release notes
+
+- [English](https://facetlauncher.com/releases)
+- [简体中文](https://facetlauncher.com/zh/releases)
+- [日本語](https://facetlauncher.com/ja/releases)
+- [한국어](https://facetlauncher.com/ko/releases)
+- [Deutsch](https://facetlauncher.com/de/releases)
+- [Français](https://facetlauncher.com/fr/releases)
+- [Español](https://facetlauncher.com/es/releases)
+
 ## Facet 1.0.17 - 2026-08-23
 
 ### Added
