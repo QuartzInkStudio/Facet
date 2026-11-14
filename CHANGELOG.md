@@ -1,5 +1,16 @@
 # Changelog
 
+## Facet 1.0.30 - 2026-11-14
+
+### Fixed
+
+- Find and open Keychain Access and other macOS system utilities from All Apps. Background components stay out of the launcher.
+
+### Downloads
+
+- [Facet 1.0.30 DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.30/Facet-1.0.30.dmg) for manual installation.
+- [Facet 1.0.30 Sparkle ZIP](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.30/Facet-1.0.30.zip) for in-app updates.
+
 ## Facet 1.0.29 - 2026-10-13
 
 ### Added
