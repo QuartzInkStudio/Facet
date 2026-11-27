@@ -1,5 +1,17 @@
 # Changelog
 
+## Facet 1.1.0 - 2026-11-27
+
+### Added
+
+- Facet Free can export and restore an All Apps layout and favorites as a JSON backup. Preview missing apps before restoring and undo a restore.
+- Facet Pro Launch Sets can save positions and sizes for up to three selected app windows on a single display. App and resource requests continue independently if window restoration fails.
+
+### Downloads
+
+- [Facet 1.1.0 DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.1.0/Facet-1.1.0.dmg) for manual installation.
+- [Facet 1.1.0 Sparkle ZIP](https://github.com/QuartzInkStudio/Facet/releases/download/v1.1.0/Facet-1.1.0.zip) for in-app updates.
+
 ## Facet 1.0.31 - 2026-11-27
 
 ### Added
