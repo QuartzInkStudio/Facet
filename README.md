@@ -1,9 +1,11 @@
 # Facet — a free classic Launchpad replacement for Mac
 
-[![Download Facet 1.0.30](https://img.shields.io/badge/Download_Facet_1.0.30-DMG-8B5CF6?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.30/Facet-1.0.30.dmg)
+[![Download Facet 1.0.31](https://img.shields.io/badge/Download_Facet_1.0.31-DMG-8B5CF6?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.31/Facet-1.0.31.dmg)
 [![Facet website](https://img.shields.io/badge/Website-facetlauncher.com-17131F?style=for-the-badge)](https://facetlauncher.com/)
 
 Facet restores the familiar fullscreen app grid, keyboard search, folders, manual ordering, and Launchpad layout import on modern macOS. The fullscreen launcher and its existing global toggle shortcut remain free. Facet Pro is an optional one-time upgrade for compact mode, advanced customization, and Launch Sets with per-Mode shortcuts. Facet 1.0.29 adds Pro resources to custom Modes: up to 12 websites, files, or folders per Mode. Search resources and open them one at a time; Launch Set selection lists apps first, then resources. Compact mode keeps its classic app view and shows an optional resource switch only for Modes with configured resources. These resource features require active Pro.
+
+Facet 1.0.31 adds Quick Access to the fullscreen All Apps view: Free users can keep favorite apps and reopen recent apps, with lists stored on the Mac. In Pro, suggest currently running apps in the Launch Set editor and review the selection before saving.
 
 Facet 1.0.30 lets you find and open Keychain Access and other macOS system utilities from All Apps.
 
@@ -11,17 +13,17 @@ Facet 1.0.30 lets you find and open Keychain Access and other macOS system utili
 
 ## Download
 
-- [Download Facet 1.0.30 DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.30/Facet-1.0.30.dmg) — recommended for manual installation
-- [Download Facet 1.0.30 Sparkle ZIP](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.30/Facet-1.0.30.zip) — signed update package
+- [Download Facet 1.0.31 DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.31/Facet-1.0.31.dmg) — recommended for manual installation
+- [Download Facet 1.0.31 Sparkle ZIP](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.31/Facet-1.0.31.zip) — signed update package
 - [View release notes](https://facetlauncher.com/releases)
 - [Homebrew tap](https://github.com/QuartzInkStudio/homebrew-tap)
 
-Facet 1.0.30 requires an Apple silicon Mac running macOS 14.0 or later, including macOS 26 Tahoe. The app is Developer ID signed and Apple-notarized.
+Facet 1.0.31 requires an Apple silicon Mac running macOS 14.0 or later, including macOS 26 Tahoe. The app is Developer ID signed and Apple-notarized.
 
 | File | SHA-256 |
 | --- | --- |
-| `Facet-1.0.30.dmg` | `1802d22fbe7c0e86415d3a76852c6a3810ed9f6a0f84d9eec643ee8c1e096540` |
-| `Facet-1.0.30.zip` | `cd8cf6f0b78eea2a31da0df5a2e9d93ba54090463de567c8c7347e2aa494eaa6` |
+| `Facet-1.0.31.dmg` | `f11c3564ad8193f37d9ba915e73e165c0bc2a175367287a679e2c32108e55d9a` |
+| `Facet-1.0.31.zip` | `710e0ec704bc7a45b1b3522526bc4de855072714a0da2cad9227bbc86aa23ef3` |
 
 The ZIP archive attached to the GitHub release is the signed Sparkle update package. For a new installation, use the DMG.
 
@@ -33,8 +35,10 @@ The ZIP archive attached to the GitHub release is the signed Sparkle update pack
 | Keyboard search and app launching | Included | Included |
 | Folders, manual ordering, and Launchpad import | Included | Included |
 | Global keyboard shortcut | Included | Included |
+| Quick Access favorites and recent apps in fullscreen All Apps | Included | Included |
 | Compact launcher mode | — | Included |
 | Launch Sets with up to 12 apps per Mode, started on request | — | Included |
+| Suggest running apps when configuring a Launch Set | — | Included |
 | Up to 12 websites, files, and folders per custom Mode | — | Included |
 | Search and open Mode resources one at a time | — | Included |
 | Resources in Launch Set selection, listed after apps | — | Included |
@@ -60,7 +64,7 @@ The optional **14-day Pro trial** starts inside Facet. It requires no card, crea
 
 ## Installation
 
-1. [Download Facet 1.0.30's notarized DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.30/Facet-1.0.30.dmg), or run `brew install --cask QuartzInkStudio/tap/facet`.
+1. [Download Facet 1.0.31's notarized DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.31/Facet-1.0.31.dmg), or run `brew install --cask QuartzInkStudio/tap/facet`.
 2. Open the DMG and drag Facet to the Applications folder.
 3. Launch Facet and choose a global keyboard shortcut.
 4. Continue with Facet Free, start the optional Pro trial, or activate a Facet Pro license.

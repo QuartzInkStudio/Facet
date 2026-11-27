@@ -1,5 +1,21 @@
 # Changelog
 
+## Facet 1.0.31 - 2026-11-27
+
+### Added
+
+- Quick Access in fullscreen All Apps: keep favorite apps and reopen up to 12 recently launched apps. Both lists stay on your Mac. Included in Free.
+- In Pro, suggest eligible running apps in the Launch Set editor and review the selection before saving.
+
+### Improved
+
+- Fullscreen app icons stay stable during equivalent background app-list refreshes.
+
+### Downloads
+
+- [Facet 1.0.31 DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.31/Facet-1.0.31.dmg) for manual installation.
+- [Facet 1.0.31 Sparkle ZIP](https://github.com/QuartzInkStudio/Facet/releases/download/v1.0.31/Facet-1.0.31.zip) for in-app updates.
+
 ## Facet 1.0.30 - 2026-11-14
 
 ### Fixed
