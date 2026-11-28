@@ -1,5 +1,22 @@
 # Changelog
 
+## Facet 1.3.0 - 2026-11-28
+
+### Improved
+
+- Facet Pro Launch Sets can restore saved window positions and sizes across multiple displays, for up to three selected apps.
+- If a saved display is unavailable, Facet skips that window placement. App and resource requests proceed independently.
+- Window positions saved before multi-display support restore on the primary display.
+
+### Fixed
+
+- Prevented Settings sidebar labels from clipping at the minimum window width.
+
+### Downloads
+
+- [Facet 1.3.0 DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.3.0/Facet-1.3.0.dmg) for manual installation.
+- [Facet 1.3.0 Sparkle ZIP](https://github.com/QuartzInkStudio/Facet/releases/download/v1.3.0/Facet-1.3.0.zip) for in-app updates.
+
 ## Facet 1.2.0 - 2026-11-28
 
 ### Added
