@@ -1,5 +1,21 @@
 # Changelog
 
+## Facet 1.2.0 - 2026-11-28
+
+### Added
+
+- Facet Free can select multiple apps in fullscreen All Apps, create a folder or move the selection to a page, and undo the last batch change.
+- A default-on Quick Access switch in General settings controls the favorites and recent apps bar.
+
+### Improved
+
+- The fullscreen grid has more breathing room when Quick Access is visible.
+
+### Downloads
+
+- [Facet 1.2.0 DMG](https://github.com/QuartzInkStudio/Facet/releases/download/v1.2.0/Facet-1.2.0.dmg) for manual installation.
+- [Facet 1.2.0 Sparkle ZIP](https://github.com/QuartzInkStudio/Facet/releases/download/v1.2.0/Facet-1.2.0.zip) for in-app updates.
+
 ## Facet 1.1.0 - 2026-11-27
 
 ### Added
